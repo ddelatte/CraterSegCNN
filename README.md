@@ -1,6 +1,6 @@
-# CraterMLTools
+# CraterSegTools
 
-CraterMLTools is a companion to this paper:
+CraterSegTools is a companion to this paper:
 - DeLatte, D. M., Crites, S. T., Guttenberg, N., Tasker, E. J., & Yairi, T. (2019). Segmentation Convolutional Neural Networks for Automatic Crater Detection on Mars. Unpublished.
 
 Other work of ours:
