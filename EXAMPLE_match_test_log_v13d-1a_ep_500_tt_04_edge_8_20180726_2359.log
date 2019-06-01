@@ -1,0 +1,463 @@
+2018-07-26 23:59:10,588 INFO New log file created for this test: v13d-1a_ep_500_tt_04_edge_8
+2018-07-26 23:59:10,589 INFO Model path: models/model_v13d-1a_epochs_500_20180721_0728.h5
+2018-07-26 23:59:10,589 INFO Data path: Robbins_Dataset/out/*_filled.png
+2018-07-26 23:59:10,589 INFO Target path: Robbins_Dataset/out/*_2_32_km_segrng_8_edge.png
+2018-07-26 23:59:10,589 INFO CSV path: Robbins_Dataset/csv_tiles/CSV_Tile_*_px.csv
+2018-07-26 23:59:10,589 INFO Starting processing for Tile 00
+2018-07-26 23:59:10,589 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_00_-30_0_0_30_px.csv
+2018-07-26 23:59:10,589 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_000_-30_0_0_30_filled.png
+2018-07-26 23:59:10,589 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_000_-30_0_0_30_2_32_km_segrng_8_edge.png
+2018-07-26 23:59:11,961 INFO Model loaded at: 20180726_2359
+2018-07-27 00:00:46,911 INFO Prediction finished at: 20180727_0000
+2018-07-27 00:00:47,230 INFO Tiles put back together at: 20180727_0000
+2018-07-27 00:20:31,967 INFO Coordinates determined from prediction at: 20180727_0020
+2018-07-27 00:20:33,128 INFO Crater list in new image finished at: 20180727_0020
+2018-07-27 00:20:33,684 INFO Found craters: 1522
+2018-07-27 00:20:37,948 INFO Saved comparison plot: plots/found/Tile_00_v13d-1a_ep_500_tt_04_edge_8_20180727_0020_match_comparison
+2018-07-27 00:20:37,948 INFO Tile 00 Matches: 1385
+2018-07-27 00:20:37,948 INFO Tile 00 Craters_in_range: 2265
+2018-07-27 00:20:37,948 INFO Tile 00 Matches ratio (matches/craters_in_range): 0.6114790286975718
+2018-07-27 00:20:37,948 INFO Tile 00 Stats: [1385, 12103, 1522, 123]
+2018-07-27 00:20:37,948 INFO Tile 00 Errors: [0.11851358164807621, 0.12508194238912151, 0.10440555965823045]
+2018-07-27 00:20:37,948 INFO Tile 00 Frac dupes: 0.01971090670170827
+2018-07-27 00:20:37,949 INFO Done with Tile 00
+2018-07-27 00:20:37,949 INFO  
+2018-07-27 00:20:37,949 INFO Starting processing for Tile 01
+2018-07-27 00:20:37,949 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_01_-30_0_30_60_px.csv
+2018-07-27 00:20:37,949 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_030_-30_0_30_60_filled.png
+2018-07-27 00:20:37,949 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_030_-30_0_30_60_2_32_km_segrng_8_edge.png
+2018-07-27 00:20:39,293 INFO Model loaded at: 20180727_0020
+2018-07-27 00:22:14,209 INFO Prediction finished at: 20180727_0022
+2018-07-27 00:22:14,529 INFO Tiles put back together at: 20180727_0022
+2018-07-27 00:42:06,320 INFO Coordinates determined from prediction at: 20180727_0042
+2018-07-27 00:42:08,077 INFO Crater list in new image finished at: 20180727_0042
+2018-07-27 00:42:08,639 INFO Found craters: 1677
+2018-07-27 00:42:12,975 INFO Saved comparison plot: plots/found/Tile_01_v13d-1a_ep_500_tt_04_edge_8_20180727_0042_match_comparison
+2018-07-27 00:42:12,975 INFO Tile 01 Matches: 1483
+2018-07-27 00:42:12,975 INFO Tile 01 Craters_in_range: 2302
+2018-07-27 00:42:12,975 INFO Tile 01 Matches ratio (matches/craters_in_range): 0.6442224152910513
+2018-07-27 00:42:12,975 INFO Tile 01 Stats: [1483, 12778, 1677, 129]
+2018-07-27 00:42:12,975 INFO Tile 01 Errors: [0.11925418355327225, 0.12742637828133097, 0.10804128587437824]
+2018-07-27 00:42:12,975 INFO Tile 01 Frac dupes: 0.025641025641025664
+2018-07-27 00:42:12,975 INFO Done with Tile 01
+2018-07-27 00:42:12,975 INFO  
+2018-07-27 00:42:12,975 INFO Starting processing for Tile 02
+2018-07-27 00:42:12,976 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_02_-30_0_60_90_px.csv
+2018-07-27 00:42:12,976 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_060_-30_0_60_90_filled.png
+2018-07-27 00:42:12,976 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_060_-30_0_60_90_2_32_km_segrng_8_edge.png
+2018-07-27 00:42:14,266 INFO Model loaded at: 20180727_0042
+2018-07-27 00:43:49,187 INFO Prediction finished at: 20180727_0043
+2018-07-27 00:43:49,507 INFO Tiles put back together at: 20180727_0043
+2018-07-27 01:03:47,250 INFO Coordinates determined from prediction at: 20180727_0103
+2018-07-27 01:03:49,020 INFO Crater list in new image finished at: 20180727_0103
+2018-07-27 01:03:49,578 INFO Found craters: 1872
+2018-07-27 01:03:54,010 INFO Saved comparison plot: plots/found/Tile_02_v13d-1a_ep_500_tt_04_edge_8_20180727_0103_match_comparison
+2018-07-27 01:03:54,010 INFO Tile 02 Matches: 1644
+2018-07-27 01:03:54,010 INFO Tile 02 Craters_in_range: 2474
+2018-07-27 01:03:54,010 INFO Tile 02 Matches ratio (matches/craters_in_range): 0.6645109135004043
+2018-07-27 01:03:54,010 INFO Tile 02 Stats: [1644, 13803, 1872, 126]
+2018-07-27 01:03:54,010 INFO Tile 02 Errors: [0.11218988894577912, 0.12383871931084874, 0.09876877561763002]
+2018-07-27 01:03:54,010 INFO Tile 02 Frac dupes: 0.021901709401709414
+2018-07-27 01:03:54,010 INFO Done with Tile 02
+2018-07-27 01:03:54,010 INFO  
+2018-07-27 01:03:54,010 INFO Starting processing for Tile 03
+2018-07-27 01:03:54,010 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_03_-30_0_90_120_px.csv
+2018-07-27 01:03:54,010 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_090_-30_0_90_120_filled.png
+2018-07-27 01:03:54,010 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_090_-30_0_90_120_2_32_km_segrng_8_edge.png
+2018-07-27 01:03:55,255 INFO Model loaded at: 20180727_0103
+2018-07-27 01:05:30,173 INFO Prediction finished at: 20180727_0105
+2018-07-27 01:05:30,491 INFO Tiles put back together at: 20180727_0105
+2018-07-27 01:25:19,790 INFO Coordinates determined from prediction at: 20180727_0125
+2018-07-27 01:25:21,552 INFO Crater list in new image finished at: 20180727_0125
+2018-07-27 01:25:22,121 INFO Found craters: 1726
+2018-07-27 01:25:26,394 INFO Saved comparison plot: plots/found/Tile_03_v13d-1a_ep_500_tt_04_edge_8_20180727_0125_match_comparison
+2018-07-27 01:25:26,394 INFO Tile 03 Matches: 1540
+2018-07-27 01:25:26,394 INFO Tile 03 Craters_in_range: 2279
+2018-07-27 01:25:26,394 INFO Tile 03 Matches ratio (matches/craters_in_range): 0.6757349714787187
+2018-07-27 01:25:26,394 INFO Tile 03 Stats: [1540, 13020, 1726, 125]
+2018-07-27 01:25:26,394 INFO Tile 03 Errors: [0.11754808505345356, 0.12928356767007493, 0.10453483936972507]
+2018-07-27 01:25:26,394 INFO Tile 03 Frac dupes: 0.022016222479721886
+2018-07-27 01:25:26,394 INFO Done with Tile 03
+2018-07-27 01:25:26,394 INFO  
+2018-07-27 01:25:26,394 INFO Starting processing for Tile 04
+2018-07-27 01:25:26,394 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_04_-30_0_120_150_px.csv
+2018-07-27 01:25:26,394 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_120_-30_0_120_150_filled.png
+2018-07-27 01:25:26,395 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_120_-30_0_120_150_2_32_km_segrng_8_edge.png
+2018-07-27 01:25:27,709 INFO Model loaded at: 20180727_0125
+2018-07-27 01:27:02,641 INFO Prediction finished at: 20180727_0127
+2018-07-27 01:27:02,961 INFO Tiles put back together at: 20180727_0127
+2018-07-27 01:46:57,591 INFO Coordinates determined from prediction at: 20180727_0146
+2018-07-27 01:46:59,360 INFO Crater list in new image finished at: 20180727_0146
+2018-07-27 01:46:59,933 INFO Found craters: 1950
+2018-07-27 01:47:04,353 INFO Saved comparison plot: plots/found/Tile_04_v13d-1a_ep_500_tt_04_edge_8_20180727_0147_match_comparison
+2018-07-27 01:47:04,354 INFO Tile 04 Matches: 1722
+2018-07-27 01:47:04,354 INFO Tile 04 Craters_in_range: 2536
+2018-07-27 01:47:04,354 INFO Tile 04 Matches ratio (matches/craters_in_range): 0.6790220820189274
+2018-07-27 01:47:04,354 INFO Tile 04 Stats: [1722, 12639, 1950, 131]
+2018-07-27 01:47:04,354 INFO Tile 04 Errors: [0.11661558971441573, 0.12316383570987925, 0.10277269055000245]
+2018-07-27 01:47:04,354 INFO Tile 04 Frac dupes: 0.01435897435897435
+2018-07-27 01:47:04,354 INFO Done with Tile 04
+2018-07-27 01:47:04,354 INFO  
+2018-07-27 01:47:04,354 INFO Starting processing for Tile 05
+2018-07-27 01:47:04,354 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_05_-30_0_150_180_px.csv
+2018-07-27 01:47:04,354 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_150_-30_0_150_180_filled.png
+2018-07-27 01:47:04,354 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_150_-30_0_150_180_2_32_km_segrng_8_edge.png
+2018-07-27 01:47:05,627 INFO Model loaded at: 20180727_0147
+2018-07-27 01:48:40,566 INFO Prediction finished at: 20180727_0148
+2018-07-27 01:48:40,885 INFO Tiles put back together at: 20180727_0148
+2018-07-27 02:08:24,879 INFO Coordinates determined from prediction at: 20180727_0208
+2018-07-27 02:08:26,646 INFO Crater list in new image finished at: 20180727_0208
+2018-07-27 02:08:27,197 INFO Found craters: 1773
+2018-07-27 02:08:31,444 INFO Saved comparison plot: plots/found/Tile_05_v13d-1a_ep_500_tt_04_edge_8_20180727_0208_match_comparison
+2018-07-27 02:08:31,445 INFO Tile 05 Matches: 1591
+2018-07-27 02:08:31,445 INFO Tile 05 Craters_in_range: 2429
+2018-07-27 02:08:31,445 INFO Tile 05 Matches ratio (matches/craters_in_range): 0.6550020584602717
+2018-07-27 02:08:31,445 INFO Tile 05 Stats: [1591, 11431, 1773, 133]
+2018-07-27 02:08:31,445 INFO Tile 05 Errors: [0.1130752563368904, 0.12786366669684038, 0.10310326223096558]
+2018-07-27 02:08:31,445 INFO Tile 05 Frac dupes: 0.02312464749012974
+2018-07-27 02:08:31,445 INFO Done with Tile 05
+2018-07-27 02:08:31,445 INFO  
+2018-07-27 02:08:31,445 INFO Starting processing for Tile 06
+2018-07-27 02:08:31,445 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_06_-30_0_-180_-150_px.csv
+2018-07-27 02:08:31,445 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_180_-30_0_-180_-150_filled.png
+2018-07-27 02:08:31,445 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_180_-30_0_-180_-150_2_32_km_segrng_8_edge.png
+2018-07-27 02:08:32,693 INFO Model loaded at: 20180727_0208
+2018-07-27 02:10:07,630 INFO Prediction finished at: 20180727_0210
+2018-07-27 02:10:07,949 INFO Tiles put back together at: 20180727_0210
+2018-07-27 02:29:53,613 INFO Coordinates determined from prediction at: 20180727_0229
+2018-07-27 02:29:55,377 INFO Crater list in new image finished at: 20180727_0229
+2018-07-27 02:29:55,932 INFO Found craters: 1853
+2018-07-27 02:30:00,312 INFO Saved comparison plot: plots/found/Tile_06_v13d-1a_ep_500_tt_04_edge_8_20180727_0229_match_comparison
+2018-07-27 02:30:00,312 INFO Tile 06 Matches: 1664
+2018-07-27 02:30:00,312 INFO Tile 06 Craters_in_range: 2710
+2018-07-27 02:30:00,312 INFO Tile 06 Matches ratio (matches/craters_in_range): 0.6140221402214022
+2018-07-27 02:30:00,312 INFO Tile 06 Stats: [1664, 13684, 1853, 131]
+2018-07-27 02:30:00,312 INFO Tile 06 Errors: [0.12530784709004322, 0.1298470032253739, 0.10586752551516371]
+2018-07-27 02:30:00,312 INFO Tile 06 Frac dupes: 0.024284943335132234
+2018-07-27 02:30:00,312 INFO Done with Tile 06
+2018-07-27 02:30:00,312 INFO  
+2018-07-27 02:30:00,312 INFO Starting processing for Tile 07
+2018-07-27 02:30:00,312 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_07_-30_0_-150_-120_px.csv
+2018-07-27 02:30:00,312 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_210_-30_0_-150_-120_filled.png
+2018-07-27 02:30:00,312 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_210_-30_0_-150_-120_2_32_km_segrng_8_edge.png
+2018-07-27 02:30:01,508 INFO Model loaded at: 20180727_0230
+2018-07-27 02:31:36,437 INFO Prediction finished at: 20180727_0231
+2018-07-27 02:31:36,759 INFO Tiles put back together at: 20180727_0231
+2018-07-27 02:50:47,486 INFO Coordinates determined from prediction at: 20180727_0250
+2018-07-27 02:50:49,206 INFO Crater list in new image finished at: 20180727_0250
+2018-07-27 02:50:49,761 INFO Found craters: 602
+2018-07-27 02:50:53,344 INFO Saved comparison plot: plots/found/Tile_07_v13d-1a_ep_500_tt_04_edge_8_20180727_0250_match_comparison
+2018-07-27 02:50:53,344 INFO Tile 07 Matches: 527
+2018-07-27 02:50:53,344 INFO Tile 07 Craters_in_range: 843
+2018-07-27 02:50:53,344 INFO Tile 07 Matches ratio (matches/craters_in_range): 0.6251482799525504
+2018-07-27 02:50:53,344 INFO Tile 07 Stats: [527, 4439, 602, 136]
+2018-07-27 02:50:53,344 INFO Tile 07 Errors: [0.12396330370666604, 0.13661834502091658, 0.11135521351971665]
+2018-07-27 02:50:53,344 INFO Tile 07 Frac dupes: 0.006644518272425249
+2018-07-27 02:50:53,345 INFO Done with Tile 07
+2018-07-27 02:50:53,345 INFO  
+2018-07-27 02:50:53,345 INFO Starting processing for Tile 08
+2018-07-27 02:50:53,345 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_08_-30_0_-120_-90_px.csv
+2018-07-27 02:50:53,345 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_240_-30_0_-120_-90_filled.png
+2018-07-27 02:50:53,345 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_240_-30_0_-120_-90_2_32_km_segrng_8_edge.png
+2018-07-27 02:50:54,616 INFO Model loaded at: 20180727_0250
+2018-07-27 02:52:29,548 INFO Prediction finished at: 20180727_0252
+2018-07-27 02:52:29,867 INFO Tiles put back together at: 20180727_0252
+2018-07-27 03:11:40,219 INFO Coordinates determined from prediction at: 20180727_0311
+2018-07-27 03:11:41,939 INFO Crater list in new image finished at: 20180727_0311
+2018-07-27 03:11:42,483 INFO Found craters: 641
+2018-07-27 03:11:46,134 INFO Saved comparison plot: plots/found/Tile_08_v13d-1a_ep_500_tt_04_edge_8_20180727_0311_match_comparison
+2018-07-27 03:11:46,134 INFO Tile 08 Matches: 421
+2018-07-27 03:11:46,134 INFO Tile 08 Craters_in_range: 603
+2018-07-27 03:11:46,134 INFO Tile 08 Matches ratio (matches/craters_in_range): 0.6981757877280266
+2018-07-27 03:11:46,134 INFO Tile 08 Stats: [421, 4679, 641, 109]
+2018-07-27 03:11:46,134 INFO Tile 08 Errors: [0.129768214365943, 0.14569515674857186, 0.12663079036034441]
+2018-07-27 03:11:46,134 INFO Tile 08 Frac dupes: 0.0031201248049922
+2018-07-27 03:11:46,134 INFO Done with Tile 08
+2018-07-27 03:11:46,134 INFO  
+2018-07-27 03:11:46,134 INFO Starting processing for Tile 09
+2018-07-27 03:11:46,134 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_09_-30_0_-90_-60_px.csv
+2018-07-27 03:11:46,134 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_270_-30_0_-90_-60_filled.png
+2018-07-27 03:11:46,134 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_270_-30_0_-90_-60_2_32_km_segrng_8_edge.png
+2018-07-27 03:11:47,540 INFO Model loaded at: 20180727_0311
+2018-07-27 03:13:22,455 INFO Prediction finished at: 20180727_0313
+2018-07-27 03:13:22,774 INFO Tiles put back together at: 20180727_0313
+2018-07-27 03:32:47,090 INFO Coordinates determined from prediction at: 20180727_0332
+2018-07-27 03:32:48,818 INFO Crater list in new image finished at: 20180727_0332
+2018-07-27 03:32:49,380 INFO Found craters: 965
+2018-07-27 03:32:53,302 INFO Saved comparison plot: plots/found/Tile_09_v13d-1a_ep_500_tt_04_edge_8_20180727_0332_match_comparison
+2018-07-27 03:32:53,303 INFO Tile 09 Matches: 683
+2018-07-27 03:32:53,303 INFO Tile 09 Craters_in_range: 885
+2018-07-27 03:32:53,303 INFO Tile 09 Matches ratio (matches/craters_in_range): 0.7717514124293785
+2018-07-27 03:32:53,303 INFO Tile 09 Stats: [683, 7490, 965, 120]
+2018-07-27 03:32:53,303 INFO Tile 09 Errors: [0.12935185189945497, 0.13931150668458422, 0.12514946505605867]
+2018-07-27 03:32:53,303 INFO Tile 09 Frac dupes: 0.007253886010362693
+2018-07-27 03:32:53,303 INFO Done with Tile 09
+2018-07-27 03:32:53,303 INFO  
+2018-07-27 03:32:53,303 INFO Starting processing for Tile 10
+2018-07-27 03:32:53,303 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_10_-30_0_-60_-30_px.csv
+2018-07-27 03:32:53,303 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_300_-30_0_-60_-30_filled.png
+2018-07-27 03:32:53,303 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_300_-30_0_-60_-30_2_32_km_segrng_8_edge.png
+2018-07-27 03:32:54,695 INFO Model loaded at: 20180727_0332
+2018-07-27 03:34:29,645 INFO Prediction finished at: 20180727_0334
+2018-07-27 03:34:29,966 INFO Tiles put back together at: 20180727_0334
+2018-07-27 03:54:09,188 INFO Coordinates determined from prediction at: 20180727_0354
+2018-07-27 03:54:10,938 INFO Crater list in new image finished at: 20180727_0354
+2018-07-27 03:54:11,490 INFO Found craters: 1490
+2018-07-27 03:54:15,883 INFO Saved comparison plot: plots/found/Tile_10_v13d-1a_ep_500_tt_04_edge_8_20180727_0354_match_comparison
+2018-07-27 03:54:15,884 INFO Tile 10 Matches: 1232
+2018-07-27 03:54:15,884 INFO Tile 10 Craters_in_range: 1935
+2018-07-27 03:54:15,884 INFO Tile 10 Matches ratio (matches/craters_in_range): 0.6366925064599483
+2018-07-27 03:54:15,884 INFO Tile 10 Stats: [1232, 14674, 1490, 104]
+2018-07-27 03:54:15,884 INFO Tile 10 Errors: [0.12595427524383393, 0.13924169320874372, 0.11361036950588109]
+2018-07-27 03:54:15,884 INFO Tile 10 Frac dupes: 0.01476510067114094
+2018-07-27 03:54:15,884 INFO Done with Tile 10
+2018-07-27 03:54:15,884 INFO  
+2018-07-27 03:54:15,884 INFO Starting processing for Tile 11
+2018-07-27 03:54:15,884 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_11_-30_0_-30_0_px.csv
+2018-07-27 03:54:15,884 INFO Data:                  Robbins_Dataset/out/thm_dir_N-30_330_-30_0_-30_0_filled.png
+2018-07-27 03:54:15,884 INFO Target:                Robbins_Dataset/out/thm_dir_N-30_330_-30_0_-30_0_2_32_km_segrng_8_edge.png
+2018-07-27 03:54:17,237 INFO Model loaded at: 20180727_0354
+2018-07-27 03:55:52,179 INFO Prediction finished at: 20180727_0355
+2018-07-27 03:55:52,499 INFO Tiles put back together at: 20180727_0355
+2018-07-27 04:15:48,285 INFO Coordinates determined from prediction at: 20180727_0415
+2018-07-27 04:15:50,059 INFO Crater list in new image finished at: 20180727_0415
+2018-07-27 04:15:50,622 INFO Found craters: 1917
+2018-07-27 04:15:55,065 INFO Saved comparison plot: plots/found/Tile_11_v13d-1a_ep_500_tt_04_edge_8_20180727_0415_match_comparison
+2018-07-27 04:15:55,065 INFO Tile 11 Matches: 1838
+2018-07-27 04:15:55,065 INFO Tile 11 Craters_in_range: 2122
+2018-07-27 04:15:55,065 INFO Tile 11 Matches ratio (matches/craters_in_range): 0.8661639962299718
+2018-07-27 04:15:55,065 INFO Tile 11 Stats: [1838, 12854, 1917, 134]
+2018-07-27 04:15:55,065 INFO Tile 11 Errors: [0.09566083170681876, 0.10666329878954443, 0.09168527361845695]
+2018-07-27 04:15:55,065 INFO Tile 11 Frac dupes: 0.010954616588419404
+2018-07-27 04:15:55,065 INFO Done with Tile 11
+2018-07-27 04:15:55,065 INFO  
+2018-07-27 04:15:55,065 INFO Starting processing for Tile 12
+2018-07-27 04:15:55,065 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_12_0_30_0_30_px.csv
+2018-07-27 04:15:55,065 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_000_0_30_0_30_filled.png
+2018-07-27 04:15:55,066 INFO Target:                Robbins_Dataset/out/thm_dir_N00_000_0_30_0_30_2_32_km_segrng_8_edge.png
+2018-07-27 04:15:56,268 INFO Model loaded at: 20180727_0415
+2018-07-27 04:17:31,193 INFO Prediction finished at: 20180727_0417
+2018-07-27 04:17:31,512 INFO Tiles put back together at: 20180727_0417
+2018-07-27 04:37:19,578 INFO Coordinates determined from prediction at: 20180727_0437
+2018-07-27 04:37:21,336 INFO Crater list in new image finished at: 20180727_0437
+2018-07-27 04:37:21,895 INFO Found craters: 1796
+2018-07-27 04:37:26,155 INFO Saved comparison plot: plots/found/Tile_12_v13d-1a_ep_500_tt_04_edge_8_20180727_0437_match_comparison
+2018-07-27 04:37:26,155 INFO Tile 12 Matches: 1648
+2018-07-27 04:37:26,155 INFO Tile 12 Craters_in_range: 2629
+2018-07-27 04:37:26,155 INFO Tile 12 Matches ratio (matches/craters_in_range): 0.6268543172308862
+2018-07-27 04:37:26,155 INFO Tile 12 Stats: [1648, 12856, 1796, 123]
+2018-07-27 04:37:26,155 INFO Tile 12 Errors: [0.12200558353302875, 0.12967114588844386, 0.10969019094347213]
+2018-07-27 04:37:26,155 INFO Tile 12 Frac dupes: 0.016703786191536753
+2018-07-27 04:37:26,155 INFO Done with Tile 12
+2018-07-27 04:37:26,155 INFO  
+2018-07-27 04:37:26,155 INFO Starting processing for Tile 13
+2018-07-27 04:37:26,155 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_13_0_30_30_60_px.csv
+2018-07-27 04:37:26,156 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_030_0_30_30_60_filled.png
+2018-07-27 04:37:26,156 INFO Target:                Robbins_Dataset/out/thm_dir_N00_030_0_30_30_60_2_32_km_segrng_8_edge.png
+2018-07-27 04:37:27,445 INFO Model loaded at: 20180727_0437
+2018-07-27 04:39:02,380 INFO Prediction finished at: 20180727_0439
+2018-07-27 04:39:02,700 INFO Tiles put back together at: 20180727_0439
+2018-07-27 04:59:11,835 INFO Coordinates determined from prediction at: 20180727_0459
+2018-07-27 04:59:13,619 INFO Crater list in new image finished at: 20180727_0459
+2018-07-27 04:59:14,176 INFO Found craters: 2332
+2018-07-27 04:59:18,566 INFO Saved comparison plot: plots/found/Tile_13_v13d-1a_ep_500_tt_04_edge_8_20180727_0459_match_comparison
+2018-07-27 04:59:18,566 INFO Tile 13 Matches: 2214
+2018-07-27 04:59:18,566 INFO Tile 13 Craters_in_range: 2599
+2018-07-27 04:59:18,566 INFO Tile 13 Matches ratio (matches/craters_in_range): 0.8518661023470565
+2018-07-27 04:59:18,567 INFO Tile 13 Stats: [2214, 11071, 2332, 138]
+2018-07-27 04:59:18,567 INFO Tile 13 Errors: [0.09912443647450803, 0.1125284879194306, 0.09579648000210764]
+2018-07-27 04:59:18,567 INFO Tile 13 Frac dupes: 0.019296740994854213
+2018-07-27 04:59:18,567 INFO Done with Tile 13
+2018-07-27 04:59:18,567 INFO  
+2018-07-27 04:59:18,567 INFO Starting processing for Tile 14
+2018-07-27 04:59:18,567 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_14_0_30_60_90_px.csv
+2018-07-27 04:59:18,567 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_060_0_30_60_90_filled.png
+2018-07-27 04:59:18,567 INFO Target:                Robbins_Dataset/out/thm_dir_N00_060_0_30_60_90_2_32_km_segrng_8_edge.png
+2018-07-27 04:59:19,869 INFO Model loaded at: 20180727_0459
+2018-07-27 05:00:54,809 INFO Prediction finished at: 20180727_0500
+2018-07-27 05:00:55,128 INFO Tiles put back together at: 20180727_0500
+2018-07-27 05:20:20,923 INFO Coordinates determined from prediction at: 20180727_0520
+2018-07-27 05:20:22,656 INFO Crater list in new image finished at: 20180727_0520
+2018-07-27 05:20:23,221 INFO Found craters: 1060
+2018-07-27 05:20:27,143 INFO Saved comparison plot: plots/found/Tile_14_v13d-1a_ep_500_tt_04_edge_8_20180727_0520_match_comparison
+2018-07-27 05:20:27,143 INFO Tile 14 Matches: 902
+2018-07-27 05:20:27,143 INFO Tile 14 Craters_in_range: 1478
+2018-07-27 05:20:27,143 INFO Tile 14 Matches ratio (matches/craters_in_range): 0.6102841677943166
+2018-07-27 05:20:27,144 INFO Tile 14 Stats: [902, 8878, 1060, 132]
+2018-07-27 05:20:27,144 INFO Tile 14 Errors: [0.1189593730102252, 0.14151172334277404, 0.10732962446381868]
+2018-07-27 05:20:27,144 INFO Tile 14 Frac dupes: 0.016981132075471698
+2018-07-27 05:20:27,144 INFO Done with Tile 14
+2018-07-27 05:20:27,144 INFO  
+2018-07-27 05:20:27,144 INFO Starting processing for Tile 15
+2018-07-27 05:20:27,144 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_15_0_30_90_120_px.csv
+2018-07-27 05:20:27,144 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_090_0_30_90_120_filled.png
+2018-07-27 05:20:27,144 INFO Target:                Robbins_Dataset/out/thm_dir_N00_090_0_30_90_120_2_32_km_segrng_8_edge.png
+2018-07-27 05:20:28,349 INFO Model loaded at: 20180727_0520
+2018-07-27 05:22:03,316 INFO Prediction finished at: 20180727_0522
+2018-07-27 05:22:03,634 INFO Tiles put back together at: 20180727_0522
+2018-07-27 05:41:25,465 INFO Coordinates determined from prediction at: 20180727_0541
+2018-07-27 05:41:27,201 INFO Crater list in new image finished at: 20180727_0541
+2018-07-27 05:41:27,755 INFO Found craters: 1040
+2018-07-27 05:41:31,605 INFO Saved comparison plot: plots/found/Tile_15_v13d-1a_ep_500_tt_04_edge_8_20180727_0541_match_comparison
+2018-07-27 05:41:31,606 INFO Tile 15 Matches: 933
+2018-07-27 05:41:31,606 INFO Tile 15 Craters_in_range: 1503
+2018-07-27 05:41:31,606 INFO Tile 15 Matches ratio (matches/craters_in_range): 0.6207584830339321
+2018-07-27 05:41:31,606 INFO Tile 15 Stats: [933, 10009, 1040, 117]
+2018-07-27 05:41:31,606 INFO Tile 15 Errors: [0.12940569826446663, 0.13452008069174465, 0.1081750801178887]
+2018-07-27 05:41:31,606 INFO Tile 15 Frac dupes: 0.008653846153846154
+2018-07-27 05:41:31,606 INFO Done with Tile 15
+2018-07-27 05:41:31,606 INFO  
+2018-07-27 05:41:31,606 INFO Starting processing for Tile 16
+2018-07-27 05:41:31,606 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_16_0_30_120_150_px.csv
+2018-07-27 05:41:31,606 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_120_0_30_120_150_filled.png
+2018-07-27 05:41:31,606 INFO Target:                Robbins_Dataset/out/thm_dir_N00_120_0_30_120_150_2_32_km_segrng_8_edge.png
+2018-07-27 05:41:32,816 INFO Model loaded at: 20180727_0541
+2018-07-27 05:43:07,746 INFO Prediction finished at: 20180727_0543
+2018-07-27 05:43:08,064 INFO Tiles put back together at: 20180727_0543
+2018-07-27 06:02:19,591 INFO Coordinates determined from prediction at: 20180727_0602
+2018-07-27 06:02:21,306 INFO Crater list in new image finished at: 20180727_0602
+2018-07-27 06:02:21,858 INFO Found craters: 619
+2018-07-27 06:02:25,501 INFO Saved comparison plot: plots/found/Tile_16_v13d-1a_ep_500_tt_04_edge_8_20180727_0602_match_comparison
+2018-07-27 06:02:25,501 INFO Tile 16 Matches: 543
+2018-07-27 06:02:25,501 INFO Tile 16 Craters_in_range: 776
+2018-07-27 06:02:25,502 INFO Tile 16 Matches ratio (matches/craters_in_range): 0.6997422680412371
+2018-07-27 06:02:25,502 INFO Tile 16 Stats: [543, 6881, 619, 105]
+2018-07-27 06:02:25,502 INFO Tile 16 Errors: [0.13334261254932506, 0.14315773511792015, 0.11177194304755873]
+2018-07-27 06:02:25,502 INFO Tile 16 Frac dupes: 0.008077544426494346
+2018-07-27 06:02:25,502 INFO Done with Tile 16
+2018-07-27 06:02:25,502 INFO  
+2018-07-27 06:02:25,502 INFO Starting processing for Tile 17
+2018-07-27 06:02:25,502 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_17_0_30_150_180_px.csv
+2018-07-27 06:02:25,502 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_150_0_30_150_180_filled.png
+2018-07-27 06:02:25,502 INFO Target:                Robbins_Dataset/out/thm_dir_N00_150_0_30_150_180_2_32_km_segrng_8_edge.png
+2018-07-27 06:02:26,750 INFO Model loaded at: 20180727_0602
+2018-07-27 06:04:01,672 INFO Prediction finished at: 20180727_0604
+2018-07-27 06:04:01,991 INFO Tiles put back together at: 20180727_0604
+2018-07-27 06:23:09,941 INFO Coordinates determined from prediction at: 20180727_0623
+2018-07-27 06:23:11,657 INFO Crater list in new image finished at: 20180727_0623
+2018-07-27 06:23:12,209 INFO Found craters: 622
+2018-07-27 06:23:15,836 INFO Saved comparison plot: plots/found/Tile_17_v13d-1a_ep_500_tt_04_edge_8_20180727_0623_match_comparison
+2018-07-27 06:23:15,837 INFO Tile 17 Matches: 611
+2018-07-27 06:23:15,837 INFO Tile 17 Craters_in_range: 723
+2018-07-27 06:23:15,837 INFO Tile 17 Matches ratio (matches/craters_in_range): 0.8450899031811895
+2018-07-27 06:23:15,837 INFO Tile 17 Stats: [611, 4273, 622, 130]
+2018-07-27 06:23:15,837 INFO Tile 17 Errors: [0.10586693045816024, 0.11725456803325468, 0.10582631508128154]
+2018-07-27 06:23:15,837 INFO Tile 17 Frac dupes: 0.001607717041800643
+2018-07-27 06:23:15,837 INFO Done with Tile 17
+2018-07-27 06:23:15,837 INFO  
+2018-07-27 06:23:15,837 INFO Starting processing for Tile 18
+2018-07-27 06:23:15,837 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_18_0_30_-180_-150_px.csv
+2018-07-27 06:23:15,837 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_180_0_30_-180_-150_filled.png
+2018-07-27 06:23:15,837 INFO Target:                Robbins_Dataset/out/thm_dir_N00_180_0_30_-180_-150_2_32_km_segrng_8_edge.png
+2018-07-27 06:23:16,989 INFO Model loaded at: 20180727_0623
+2018-07-27 06:24:51,940 INFO Prediction finished at: 20180727_0624
+2018-07-27 06:24:52,260 INFO Tiles put back together at: 20180727_0624
+2018-07-27 06:44:02,319 INFO Coordinates determined from prediction at: 20180727_0644
+2018-07-27 06:44:04,037 INFO Crater list in new image finished at: 20180727_0644
+2018-07-27 06:44:04,591 INFO Found craters: 500
+2018-07-27 06:44:08,094 INFO Saved comparison plot: plots/found/Tile_18_v13d-1a_ep_500_tt_04_edge_8_20180727_0644_match_comparison
+2018-07-27 06:44:08,094 INFO Tile 18 Matches: 459
+2018-07-27 06:44:08,094 INFO Tile 18 Craters_in_range: 828
+2018-07-27 06:44:08,094 INFO Tile 18 Matches ratio (matches/craters_in_range): 0.5543478260869565
+2018-07-27 06:44:08,094 INFO Tile 18 Stats: [459, 4295, 500, 131]
+2018-07-27 06:44:08,094 INFO Tile 18 Errors: [0.1278306543628181, 0.1409890927300035, 0.11170513753727684]
+2018-07-27 06:44:08,094 INFO Tile 18 Frac dupes: 0.018000000000000002
+2018-07-27 06:44:08,094 INFO Done with Tile 18
+2018-07-27 06:44:08,094 INFO  
+2018-07-27 06:44:08,095 INFO Starting processing for Tile 19
+2018-07-27 06:44:08,095 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_19_0_30_-150_-120_px.csv
+2018-07-27 06:44:08,095 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_210_0_30_-150_-120_filled.png
+2018-07-27 06:44:08,095 INFO Target:                Robbins_Dataset/out/thm_dir_N00_210_0_30_-150_-120_2_32_km_segrng_8_edge.png
+2018-07-27 06:44:09,377 INFO Model loaded at: 20180727_0644
+2018-07-27 06:45:44,338 INFO Prediction finished at: 20180727_0645
+2018-07-27 06:45:44,657 INFO Tiles put back together at: 20180727_0645
+2018-07-27 07:04:41,021 INFO Coordinates determined from prediction at: 20180727_0704
+2018-07-27 07:04:42,710 INFO Crater list in new image finished at: 20180727_0704
+2018-07-27 07:04:43,248 INFO Found craters: 164
+2018-07-27 07:04:46,799 INFO Saved comparison plot: plots/found/Tile_19_v13d-1a_ep_500_tt_04_edge_8_20180727_0704_match_comparison
+2018-07-27 07:04:46,799 INFO Tile 19 Matches: 115
+2018-07-27 07:04:46,799 INFO Tile 19 Craters_in_range: 189
+2018-07-27 07:04:46,799 INFO Tile 19 Matches ratio (matches/craters_in_range): 0.6084656084656085
+2018-07-27 07:04:46,799 INFO Tile 19 Stats: [115, 1451, 164, 65]
+2018-07-27 07:04:46,799 INFO Tile 19 Errors: [0.1351503691638096, 0.13899996061798006, 0.09758008980605733]
+2018-07-27 07:04:46,799 INFO Tile 19 Frac dupes: 0
+2018-07-27 07:04:46,799 INFO Done with Tile 19
+2018-07-27 07:04:46,799 INFO  
+2018-07-27 07:04:46,799 INFO Starting processing for Tile 20
+2018-07-27 07:04:46,799 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_20_0_30_-120_-90_px.csv
+2018-07-27 07:04:46,799 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_240_0_30_-120_-90_filled.png
+2018-07-27 07:04:46,799 INFO Target:                Robbins_Dataset/out/thm_dir_N00_240_0_30_-120_-90_2_32_km_segrng_8_edge.png
+2018-07-27 07:04:47,954 INFO Model loaded at: 20180727_0704
+2018-07-27 07:06:22,884 INFO Prediction finished at: 20180727_0706
+2018-07-27 07:06:23,203 INFO Tiles put back together at: 20180727_0706
+2018-07-27 07:25:15,756 INFO Coordinates determined from prediction at: 20180727_0725
+2018-07-27 07:25:17,441 INFO Crater list in new image finished at: 20180727_0725
+2018-07-27 07:25:17,985 INFO Found craters: 226
+2018-07-27 07:25:21,421 INFO Saved comparison plot: plots/found/Tile_20_v13d-1a_ep_500_tt_04_edge_8_20180727_0725_match_comparison
+2018-07-27 07:25:21,422 INFO Tile 20 Matches: 226
+2018-07-27 07:25:21,422 INFO Tile 20 Craters_in_range: 266
+2018-07-27 07:25:21,422 INFO Tile 20 Matches ratio (matches/craters_in_range): 0.849624060150376
+2018-07-27 07:25:21,422 INFO Tile 20 Stats: [226, 2398, 226, 74]
+2018-07-27 07:25:21,422 INFO Tile 20 Errors: [0.11491792045641373, 0.1338735554858068, 0.1207402466731802]
+2018-07-27 07:25:21,422 INFO Tile 20 Frac dupes: 0
+2018-07-27 07:25:21,422 INFO Done with Tile 20
+2018-07-27 07:25:21,422 INFO  
+2018-07-27 07:25:21,422 INFO Starting processing for Tile 21
+2018-07-27 07:25:21,422 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_21_0_30_-90_-60_px.csv
+2018-07-27 07:25:21,422 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_270_0_30_-90_-60_filled.png
+2018-07-27 07:25:21,422 INFO Target:                Robbins_Dataset/out/thm_dir_N00_270_0_30_-90_-60_2_32_km_segrng_8_edge.png
+2018-07-27 07:25:22,627 INFO Model loaded at: 20180727_0725
+2018-07-27 07:26:57,582 INFO Prediction finished at: 20180727_0726
+2018-07-27 07:26:57,901 INFO Tiles put back together at: 20180727_0726
+2018-07-27 07:46:06,932 INFO Coordinates determined from prediction at: 20180727_0746
+2018-07-27 07:46:08,643 INFO Crater list in new image finished at: 20180727_0746
+2018-07-27 07:46:09,186 INFO Found craters: 605
+2018-07-27 07:46:12,784 INFO Saved comparison plot: plots/found/Tile_21_v13d-1a_ep_500_tt_04_edge_8_20180727_0746_match_comparison
+2018-07-27 07:46:12,784 INFO Tile 21 Matches: 599
+2018-07-27 07:46:12,784 INFO Tile 21 Craters_in_range: 728
+2018-07-27 07:46:12,784 INFO Tile 21 Matches ratio (matches/craters_in_range): 0.8228021978021978
+2018-07-27 07:46:12,784 INFO Tile 21 Stats: [599, 6081, 605, 127]
+2018-07-27 07:46:12,784 INFO Tile 21 Errors: [0.1198349545280095, 0.1287074597504403, 0.11365524388015621]
+2018-07-27 07:46:12,784 INFO Tile 21 Frac dupes: 0.014876033057851241
+2018-07-27 07:46:12,784 INFO Done with Tile 21
+2018-07-27 07:46:12,785 INFO  
+2018-07-27 07:46:12,785 INFO Starting processing for Tile 22
+2018-07-27 07:46:12,785 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_22_0_30_-60_-30_px.csv
+2018-07-27 07:46:12,785 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_300_0_30_-60_-30_filled.png
+2018-07-27 07:46:12,785 INFO Target:                Robbins_Dataset/out/thm_dir_N00_300_0_30_-60_-30_2_32_km_segrng_8_edge.png
+2018-07-27 07:46:14,111 INFO Model loaded at: 20180727_0746
+2018-07-27 07:47:49,071 INFO Prediction finished at: 20180727_0747
+2018-07-27 07:47:49,391 INFO Tiles put back together at: 20180727_0747
+2018-07-27 08:07:21,499 INFO Coordinates determined from prediction at: 20180727_0807
+2018-07-27 08:07:23,239 INFO Crater list in new image finished at: 20180727_0807
+2018-07-27 08:07:23,790 INFO Found craters: 1237
+2018-07-27 08:07:27,957 INFO Saved comparison plot: plots/found/Tile_22_v13d-1a_ep_500_tt_04_edge_8_20180727_0807_match_comparison
+2018-07-27 08:07:27,957 INFO Tile 22 Matches: 1120
+2018-07-27 08:07:27,957 INFO Tile 22 Craters_in_range: 1580
+2018-07-27 08:07:27,957 INFO Tile 22 Matches ratio (matches/craters_in_range): 0.7088607594936709
+2018-07-27 08:07:27,957 INFO Tile 22 Stats: [1120, 10731, 1237, 127]
+2018-07-27 08:07:27,957 INFO Tile 22 Errors: [0.12606263500382636, 0.12721851531376274, 0.11266331389624223]
+2018-07-27 08:07:27,957 INFO Tile 22 Frac dupes: 0.0137429264349232
+2018-07-27 08:07:27,957 INFO Done with Tile 22
+2018-07-27 08:07:27,957 INFO  
+2018-07-27 08:07:27,957 INFO Starting processing for Tile 23
+2018-07-27 08:07:27,957 INFO CSV, human annotated: Robbins_Dataset/csv_tiles/CSV_Tile_23_0_30_-30_0_px.csv
+2018-07-27 08:07:27,957 INFO Data:                  Robbins_Dataset/out/thm_dir_N00_330_0_30_-30_0_filled.png
+2018-07-27 08:07:27,957 INFO Target:                Robbins_Dataset/out/thm_dir_N00_330_0_30_-30_0_2_32_km_segrng_8_edge.png
+2018-07-27 08:07:29,289 INFO Model loaded at: 20180727_0807
+2018-07-27 08:09:04,250 INFO Prediction finished at: 20180727_0809
+2018-07-27 08:09:04,569 INFO Tiles put back together at: 20180727_0809
+2018-07-27 08:29:01,601 INFO Coordinates determined from prediction at: 20180727_0829
+2018-07-27 08:29:03,377 INFO Crater list in new image finished at: 20180727_0829
+2018-07-27 08:29:03,928 INFO Found craters: 2079
+2018-07-27 08:29:08,410 INFO Saved comparison plot: plots/found/Tile_23_v13d-1a_ep_500_tt_04_edge_8_20180727_0829_match_comparison
+2018-07-27 08:29:08,410 INFO Tile 23 Matches: 1989
+2018-07-27 08:29:08,410 INFO Tile 23 Craters_in_range: 2345
+2018-07-27 08:29:08,410 INFO Tile 23 Matches ratio (matches/craters_in_range): 0.8481876332622601
+2018-07-27 08:29:08,410 INFO Tile 23 Stats: [1989, 12849, 2079, 140]
+2018-07-27 08:29:08,410 INFO Tile 23 Errors: [0.10110690264904092, 0.11637415137740213, 0.09467574136079768]
+2018-07-27 08:29:08,410 INFO Tile 23 Frac dupes: 0.01587301587301588
+2018-07-27 08:29:08,410 INFO Done with Tile 23
+2018-07-27 08:29:08,410 INFO  
+2018-07-27 08:29:08,420 INFO Coordinates for craters saved to: numpy_save/v13d-1a_ep_500_tt_04_edge_8_coords_20180727_0829.npz
+2018-07-27 08:29:08,448 INFO Coordinates for craters saved to: numpy_save/v13d-1a_ep_500_tt_04_edge_8_csvpxxyr_20180727_0829.npz
