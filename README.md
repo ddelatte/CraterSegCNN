@@ -1,7 +1,8 @@
 # CraterSegCNN
 
 CraterSegCNN is a companion to this paper:
-- DeLatte, D. M., Crites, S. T., Guttenberg, N., Tasker, E. J., & Yairi, T. (2019). Segmentation Convolutional Neural Networks for Automatic Crater Detection on Mars. Unpublished.
+- DeLatte, D. M., Crites, S. T., Guttenberg, N., Tasker, E. J., & Yairi, T. (2019). Segmentation Convolutional Neural Networks for Automatic Crater Detection on Mars. 
+Article DOI: 10.1109/JSTARS.2019.2918302
 
 Other work of ours:
 - DeLatte, D. M., Crites, S. T., Guttenberg, N., Tasker, E. J., & Yairi, T. (2018). Experiments in Segmenting Mars Craters Using Convolutional Neural Networks (pp. 1–8). Presented at the i-SAIRAS, Madrid.
